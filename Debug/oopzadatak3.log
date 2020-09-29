@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Pavle\source\repos\oopzadatak3\oopzadatak3\Source.cpp(210,1): error C2597: illegal reference to non-static member 'GradskaLinija::stajalista'
